@@ -1,0 +1,5 @@
+{
+  "name": "SMK Bandara Registration",
+  "description": "Aplikasi pendaftaran siswa baru SMK Bandara dengan program keahlian AKL, BDP, dan Perhotelan.",
+  "requestFramePermissions": []
+}
